@@ -49,8 +49,6 @@ O foco do projeto é aprendizado, diversão e experimentação — não é uma I
 
 node test.js
 
-yaml
-Copiar código
 
 5. O bot vai iniciar e você já pode conversar com ele
 
@@ -83,8 +81,6 @@ O bot vai responder:
 
 eae meu mano 😈
 
-yaml
-Copiar código
 
 ---
 
