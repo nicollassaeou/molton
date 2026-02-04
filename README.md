@@ -60,22 +60,15 @@ O Molton aprende usando o seguinte formato:
 
 aprende: frase = resposta
 
-shell
-Copiar código
 
 ### Exemplo
 
 aprende: salve cria = eae meu mano 😈
 
-yaml
-Copiar código
 
 Depois disso, quando você digitar:
 
 salve cria
-
-yaml
-Copiar código
 
 O bot vai responder:
 
