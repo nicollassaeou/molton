@@ -113,10 +113,10 @@ eae meu mano 😈
 
 ## Ideias futuras (talvez)
 
-- Comandos extras pré-definidos
+- Comandos extras pré-definidos(meio feito com o update)
 - Melhor interpretação de frases
 - Camada de IA com limites
-- Interface visual no futuro
+- Interface visual no futuro(este é um futuro mto distante)
 
 ---
 
